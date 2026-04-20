@@ -4,5 +4,9 @@ public class hello2 {
         int num2 = 13;
         int sum = num1+num2;
         System.out.println(sum);
+
+        
+        int subtract = num1-num2;
+        System.err.println(subtract);
     }
 }
