@@ -13,3 +13,6 @@ def test_substract(cal):
 
 def test_multiply(cal):
     assert cal.multiply(9,5)==45
+
+def test_divide(cal):
+    assert cal.divide(9,3)==3
