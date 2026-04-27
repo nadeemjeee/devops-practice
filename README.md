@@ -44,12 +44,12 @@ pytest
 Make it executable: 
 ```sh
 chmod +x run.sh
-
-- to run app.py 
+```
+to run app.py 
 ```sh
 ./run.sh
 
-
+```
 
 
 DevOps work flow
